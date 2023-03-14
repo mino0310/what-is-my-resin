@@ -1,0 +1,1 @@
+include::{snippets}/index/request-fields.adoc[]
